@@ -1,4 +1,4 @@
-# You-Get
+# You-Get 视频下载神器,全平台
 
 [![PyPI version](https://img.shields.io/pypi/v/you-get.svg)](https://pypi.python.org/pypi/you-get/)
 [![Build Status](https://travis-ci.org/soimort/you-get.svg)](https://travis-ci.org/soimort/you-get)
